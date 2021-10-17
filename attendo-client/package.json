@@ -1,8 +1,8 @@
 {
-  "name": "attento-client",
+  "name": "attendo-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://educate-app.github.io/Attendo-Web",
+  "homepage": "http://tusharojha.github.io/Attendo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
