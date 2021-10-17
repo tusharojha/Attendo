@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57090708182",
+    "project_id": "attendo-41b02",
+    "storage_bucket": "attendo-41b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57090708182:android:ff946a4a867e4677dbef77",
+        "android_client_info": {
+          "package_name": "com.attendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57090708182-lt00eeqn089bjg5trfshhp63eq8cjrp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasj-kRQUAyDwT4Vscdu9xef-8LkIQ2AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57090708182-lt00eeqn089bjg5trfshhp63eq8cjrp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
