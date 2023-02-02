@@ -22,3 +22,5 @@ Marking and maintaining attendance of the lectures is a tedious task and student
 ## More Info
 
 Please consider the [README for Mobile App](./attendo-mobile/README.md) and [README for Web Portal](./attendo-client/README.md)
+
+Backed up by Sadaiv CI
